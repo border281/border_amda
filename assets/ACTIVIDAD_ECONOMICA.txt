@@ -1,0 +1,322 @@
+﻿Clave	Descripcion
+1000000	NO APLICA
+1111000	Cultivo de semillas oleaginosas, leguminosas y cereales
+1112000	Cultivo de hortalizas
+1113000	Cultivo de frutales y nueces
+1114000	Cultivo en invernaderos y viveros, y floricultura
+1119000	Otros cultivos
+1121000	Explotación de bovinos
+1122000	Explotación de porcinos
+1123000	Explotación avícola
+1124000	Explotación de ovinos y caprinos
+1125000	Acuicultura
+1129000	Explotación de otros animales
+1131000	Silvicultura
+1132000	Viveros forestales y recolección de productos forestales
+1133000	Tala de árboles
+1141000	Pesca
+1142000	Caza y captura
+1151000	Servicios relacionados con la agricultura
+1152000	Servicios relacionados con la cría y explotación de animales
+1153000	Servicios relacionados con el aprovechamiento forestal
+2110000	Extracción de petróleo y gas
+2121000	Minería de carbón mineral
+2122100	Minería de hierro
+2122210	Minería de oro
+2122220	Minería de plata
+2122300	Minería de cobre, plomo y zinc
+2122900	Minería de otros minerales metálicos
+2123000	Minería de minerales no metálicos
+2130000	Servicios relacionados con la minería
+2211100	Generación, transmisión y distribución de energía eléctrica
+2211200	Transmisión y distribución de energía eléctrica
+2221000	Captación, tratamiento y suministro de agua
+2222000	Suministro de gas por ductos al consumidor final
+2361110	Edificación de vivienda unifamiliar
+2361120	Edificación de vivienda multifamiliar
+2361130	Supervisión de edificación residencial
+2362100	Edificación de naves y plantas industriales
+2362200	Edificación de inmuebles comerciales y de servicios
+2371000	Construcción de obras para el suministro de agua, petróleo, gas, energía eléctrica y telecomunicaciones
+2372000	División de terrenos y construcción de obras de urbanización
+2373000	Construcción de vías de comunicación
+2379000	Otras construcciones de ingeniería civil
+2381000	Cimentaciones, montaje de estructuras prefabricadas y trabajos en exteriores
+2382000	Instalaciones y equipamiento en construcciones
+2383000	Trabajos de acabados en edificaciones
+2384000	Servicios de blindaje parcial o total de inmuebles
+2389000	Otros trabajos especializados para la construcción
+3110000	Industria alimentaria
+3121000	Industria de las bebidas
+3122000	Industria del tabaco
+3130000	Fabricación de insumos textiles y acabado de textiles
+3140000	Fabricación de productos textiles, excepto prendas de vestir
+3150000	Fabricación de prendas de vestir
+3160000	Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos
+3210000	Industria de la madera
+3220000	Industria del papel
+3230000	Impresión e industrias conexas
+3240000	Fabricación de productos derivados del petróleo y del carbón
+3251000	Fabricación de productos químicos básicos
+3252000	Fabricación de resinas y hules sintéticos, y fibras químicas
+3253000	Fabricación de fertilizantes, pesticidas y otros agroquímicos
+3254000	Fabricación de productos farmacéuticos
+3259000	Fabricación de otros productos químicos
+3260000	Industria del plástico y del hule
+3270000	Fabricación de productos a base de minerales no metálicos
+3311000	Industria básica del hierro y del acero
+3312000	Fabricación de productos de hierro y acero
+3313000	Industria básica del aluminio
+3314000	Industrias de metales no ferrosos, excepto aluminio
+3314110	Fundición y refinación de cobre
+3314120	Fundición y refinación de metales preciosos
+3314190	Fundición y refinación de otros metales no ferrosos
+3315000	Moldeo por fundición de piezas metálicas
+3320000	Fabricación de productos metálicos
+3330000	Fabricación de maquinaria y equipo
+3340000	Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos
+3346000	Fabricación y reproducción de medios magnéticos y ópticos
+3350000	Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica
+3361100	Fabricación de automóviles y camionetas
+3361200	Fabricación de camiones y tractocamiones, 
+3362100	Fabricación de carrocerías y remolques
+3363000	Fabricación de partes para vehículos automotores
+3364100	Fabricación de equipo aeroespacial
+3365100	Fabricación de equipo ferroviario, 
+3366100	Fabricación de embarcaciones
+3369910	Fabricación de motocicletas
+3369980	Fabricación de vehículos blindados y equipo para el blindaje de vehículos
+3369990	Fabricación de otro equipo de transporte
+3370000	Fabricación de muebles, colchones y persianas
+3399110	Acuñación e impresión de monedas
+3399120	Orfebrería y joyería de metales y piedras preciosos
+3399130	Joyería de metales y piedras no preciosos y de otros materiales
+3399140	Metalistería de metales no preciosos
+3399990	Otras industrias manufactureras
+4310000	Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco
+4320000	Comercio al por mayor de productos textiles y calzado
+4332200	Comercio al por mayor de artículos de joyería y relojes
+4340000	Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho
+4350000	Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general
+4361110	Comercio al por mayor de camiones
+4361120	Comercio al por mayor de partes y refacciones nuevas para automóviles, camionetas y camiones
+4370000	Intermediación de comercio al por mayor
+4610000	Comercio al por menor de abarrotes, alimentos, bebidas, hielo y tabaco
+4621110	Comercio al por menor en supermercados
+4621120	Comercio al por menor en minisupers
+4622100	Comercio al por menor en tiendas departamentales
+4631000	Comercio al por menor de productos textiles, excepto ropa
+4632000	Comercio al por menor de ropa, bisutería y accesorios de vestir
+4633000	Comercio al por menor de calzado
+4640000	Comercio al por menor de artículos para el cuidado de la salud
+4651120	Comercio al por menor de artículos de joyería y relojes
+4652000	Comercio al por menor de artículos para el esparcimiento
+4653000	Comercio al por menor de artículos de papelería, libros, revistas y periódicos
+4659000	Comercio al por menor de mascotas, regalos, artículos religiosos, desechables y otros artículos de uso personal
+4661000	Comercio al por menor de muebles para el hogar y otros enseres domésticos
+4662000	Comercio al por menor de mobiliario, equipo y accesorios de cómputo, teléfonos y otros aparatos de comunicación
+4663000	Comercio al por menor de artículos para la decoración de interiores
+4663130	Comercio al por menor de antigüedades y obras de arte
+4664000	Comercio al por menor de artículos usados
+4670000	Comercio al por menor de artículos de ferretería, tlapalería y vidrios
+4681110	Comercio al por menor de automóviles y camionetas nuevos
+4681120	Comercio al por menor de automóviles y camionetas usados
+4682000	Comercio al por menor de partes y refacciones para automóviles, camionetas y camiones
+4683110	Comercio al por menor de motocicletas
+4683190	Comercio al por menor de otros vehículos de motor
+4684000	Comercio al por menor de combustibles, aceites y grasas lubricantes
+4690000	Comercio al por menor exclusivamente a través de Internet, y catálogos impresos, televisión y similares
+4810000	Transporte aéreo
+4820000	Transporte por ferrocarril
+4830000	Transporte por agua
+4840000	Autotransporte de carga
+4850000	Transporte terrestre de pasajeros, excepto por ferrocarril
+4860000	Transporte por ductos
+4870000	Transporte turístico
+4885110	Servicios de agencias aduanales
+4888000	Servicios de transporte de valores
+4889000	Otros servicios relacionados con el transporte
+4910000	Servicios postales
+4920000	Servicios de mensajería y paquetería
+4930000	Servicios de almacenamiento
+4990000	Servicios de custodia de valores
+5110000	Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión
+5120000	Industria fílmica y del video, e industria del sonido
+5150000	Radio y televisión
+5170000	Otras telecomunicaciones
+5180000	Procesamiento electrónico de información, hospedaje y otros servicios relacionados
+5210000	Banca central
+5221000	Banca múltiple
+5222100	Banca de desarrollo
+5222200	Fondos y fideicomisos financieros
+5223100	Uniones de crédito
+5223200	Cajas de ahorro popular
+5223900	Otras instituciones de ahorro y préstamo
+5224100	Arrendadoras financieras
+5224200	Compañías de factoraje financiero
+5224300	Sociedades financieras de objeto limitado
+5224400	Compañías de autofinanciamiento
+5224510	Montepíos
+5224520	Casas de empeño
+5224900	Otras instituciones de intermediación crediticia y financiera no bursátil
+5225100	Servicios relacionados con la intermediación crediticia no bursátil
+5231100	Casas de bolsa
+5231210	Casas de cambio
+5231220	Centros cambiarios
+5232000	Bolsa de valores
+5239100	Asesoría en inversiones
+5239900	Otros servicios relacionados con la intermediación bursátil
+5241100	Compañías de seguros
+5241200	Fondos de aseguramiento campesino
+5241300	Compañías afianzadoras
+5242000	Servicios relacionados con los seguros y las fianzas
+5251000	Administradoras de tarjeta de servicios
+5252000	Administradoras y/o comercializadoras de tarjetas de prepago, cupones, vales o similares
+5253000	Emisora y/o comercializadora de cheques de viajero
+5311110	Alquiler sin intermediación de viviendas amuebladas
+5311120	Alquiler sin intermediación de viviendas no amuebladas
+5311130	Alquiler sin intermediación de salones para fiestas y convenciones
+5311140	Alquiler sin intermediación de oficinas y locales comerciales
+5311150	Alquiler sin intermediación de teatros, estadios, auditorios y similares
+5311190	Alquiler sin intermediación de otros bienes raíces
+5312000	Inmobiliarias y corredores de bienes raíces
+5313110	Servicios de administración de bienes raíces
+5313190	Otros servicios relacionados con los servicios inmobiliarios
+5321000	Alquiler de automóviles, camiones y otros transportes terrestres
+5322000	Alquiler de artículos para el hogar y personales
+5323000	Centros generales de alquiler
+5324000	Alquiler de maquinaria y equipo agropecuario, pesquero, industrial, comercial y de servicios
+5330000	Servicios de alquiler de marcas registradas, patentes y franquicias
+5411100	Bufetes jurídicos, 
+5411200	Notarías públicas, 
+5411210	Corredurías públicas
+5411900	Servicios de apoyo para efectuar trámites legales
+5412110	Servicios de contabilidad y auditoría
+5413000	Servicios de arquitectura, ingeniería y actividades relacionadas
+5414000	Diseño especializado
+5415000	Servicios de diseño de sistemas de cómputo y servicios relacionados
+5416100	Servicios de consultoría en administración
+5416900	Otros servicios de consultoría científica y técnica, 
+5417000	Servicios de investigación científica y desarrollo
+5418000	Servicios de publicidad y actividades relacionadas
+5419000	Otros servicios profesionales, científicos y técnicos
+5511110	Corporativos, 
+5511120	Tenedoras de acciones
+5611100	Servicios de administración de negocios, 
+5612100	Servicios combinados de apoyo en instalaciones, 
+5613000	Servicios de empleo
+5614000	Servicio de apoyo secretarial, fotocopiado, cobranza, investigación crediticia y similares
+5615000	Agencias de viajes y servicios de reservaciones
+5616000	Servicios de investigación, protección y seguridad
+5617000	Servicios de limpieza
+5619000	Otros servicios de apoyo a los negocios
+5620000	Manejo de desechos y servicios de remediación
+6111000	Escuelas de educación básica, media y para necesidades especiales
+6112000	Escuelas de educación postbachillerato
+6113000	Escuelas de educación superior
+6114000	Escuelas comerciales, de computación y de capacitación para ejecutivos
+6115000	Escuelas de oficios
+6116000	Otros servicios educativos
+6117000	Servicios de apoyo a la educación
+6210000	Servicios médicos de consulta externa y servicios relacionados
+6220000	Hospitales
+6230000	Residencias de asistencia social y para el cuidado de la salud
+6240000	Otros servicios de asistencia social
+7111000	Compañías y grupos de espectáculos artísticos y culturales
+7112000	Deportistas y equipos deportivos profesionales
+7113000	Promotores de espectáculos artísticos, culturales, deportivos y similares
+7114000	Agentes y representantes de artistas, deportistas y similares
+7115000	Artistas, escritores y técnicos independientes
+7120000	Museos, sitios históricos, zoológicos y similares
+7131100	Parques con instalaciones recreativas
+7131200	Casas de juegos electrónicos
+7132100	Casinos
+7132910	Venta de billetes de lotería, pronósticos deportivos y otros boletos de sorteo
+7132990	Otros juegos de azar
+7139000	Otros servicios recreativos
+7211000	Hoteles, moteles y similares
+7212000	Campamentos y albergues recreativos
+7213000	Pensiones y casas de huéspedes, y departamentos y casas amueblados con servicios de hotelería
+7221000	Restaurantes con servicio completo
+7222000	Restaurantes de autoservicio, comida para llevar y otros restaurantes con servicio limitado
+7223000	Servicios de preparación de alimentos por encargo
+7224000	Centros nocturnos, bares, cantinas y similares
+8111000	Reparación y mantenimiento de automóviles y camiones
+8112000	Reparación y mantenimiento de equipo electrónico y de equipo de precisión
+8113000	Reparación y mantenimiento de maquinaria y equipo agropecuario, industrial, comercial y de servicios
+8114000	Reparación y mantenimiento de artículos para el hogar y personales
+8121000	Salones y clínicas de belleza, baños públicos y bolerías
+8122000	Lavanderías y tintorerías
+8123000	Servicios funerarios y administración de cementerios
+8124000	Estacionamientos y pensiones para vehículos automotores
+8129000	Servicios de revelado e impresión de fotografías y otros servicios personales
+8131100	Asociaciones, organizaciones y cámaras de productores, comerciantes y prestadores de servicios, 
+8131200	Asociaciones y organizaciones laborales y sindicales
+8131300	Asociaciones y organizaciones de profesionistas
+8131400	Asociaciones regulatorias de actividades recreativas
+8132100	Asociaciones y organizaciones religiosas, 
+8132200	Asociaciones y organizaciones políticas, 
+8132300	Asociaciones y organizaciones civiles
+8140000	Hogares con empleados domésticos
+9311000	Órganos legislativos
+9312000	Administración pública en general
+9313000	Regulación y fomento del desarrollo económico
+9314000	Impartición de justicia y mantenimiento de la seguridad y el orden público
+9315000	Regulación y fomento de actividades para mejorar y preservar el medio ambiente
+9316000	Actividades administrativas de instituciones de bienestar social
+9317000	Relaciones exteriores
+9318000	Actividades de seguridad nacional
+9321100	Organismos internacionales
+9321200	Sedes diplomáticas y otras unidades extraterritoriales
+9701010	Presidente de la republica
+9701020	Secretaria de estado,  titular de entidad / procurador general de la república
+9701030	Subsecretaria de estado
+9701040	Oficial mayor
+9701050	Titular de entidad
+9701060	Jefatura de unidad
+9701070	Dirección general u homologa
+9701120	Diputado  del h. Congreso de la unión
+9701130	Senador de la republica
+9701140	Secretaria de la defensa nacional (militar)
+9701150	Secretaria de marina (marino)
+9701160	Embajador
+9701170	Cónsul
+9702010	Gobernador constitucional del estado ó jefe de gobierno del df
+9702020	Secretario del ramo
+9702030	Procurador general de justicia del estado
+9702040	Diputado al h. Congreso del estado
+9702050	Sub-procurador general de justicia del estad
+9702060	Contralor del h. Congreso del estado
+9702070	Tesorero del estado
+9702080	Sub-secretario
+9702090	Vocal ejecutivo
+9702100	Oficial mayor de entidad federativa
+9702110	Director general
+9702120	Director ejecutivo
+9702130	Jefe de la policía judicial del estado
+9702140	Jefe de unidad
+9702990	Empleado del gobierno federal
+9703010	Presidente municipal o delegado
+9703020	Sub-delegado
+9703030	Regidor
+9703040	Director general
+9703990	Empleado de gobierno municipal o delegaciones (d.f)
+9704010	Ministro de la suprema corte de justicia de la nación
+9704020	Magistrado federal
+9704030	Juez federal
+9704040	Empleado del poder judicial federal (secretarios, actuarios, etc)
+9704050	Magistrado de entidad federativa
+9704060	Juez de entidad federativa
+9704070	Empleado del poder judicial de entidad federativa (secretarios, actuarios, etc)
+9704080	Juez municipal ó de delegación
+9704090	Empleado del poder judicial de municipio ó delegación (secretarios, actuarios, etc)
+9704990	Empleado del poder judicial
+9801010	Empleado del Sector Privado
+9801020	Empleado del Sector Público
+9801030	Estudiante ó menor de edad sin ocupación
+9801040	Desempleado
+9801050	Jubilado
+9801060	Pensionado
+9801070	Ama de casa
+9801080	Ministros de culto religioso (sacerdote, pastor, monja, etc)
+9801090	Agente aduanal

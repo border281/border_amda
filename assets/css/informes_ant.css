@@ -1,0 +1,387 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15/12/2013, 10:01:27 PM
+    Author     : israel millan
+*/
+
+body {
+  margin-top: 50px;
+}
+input
+{
+    text-transform:uppercase;
+}
+#wrapper {
+  padding-left: 0;
+}
+
+#page-wrapper {
+  width: 100%;
+  padding: 5px 15px;
+}
+
+/* Nav Messages */
+
+.messages-dropdown .dropdown-menu .message-preview .avatar,
+.messages-dropdown .dropdown-menu .message-preview .name,
+.messages-dropdown .dropdown-menu .message-preview .message,
+.messages-dropdown .dropdown-menu .message-preview .time {
+  display: block;
+}
+
+.messages-dropdown .dropdown-menu .message-preview .avatar {
+  float: left;
+  margin-right: 15px;
+}
+
+.messages-dropdown .dropdown-menu .message-preview .name {
+  font-weight: bold;
+}
+
+.messages-dropdown .dropdown-menu .message-preview .message {
+  font-size: 12px;
+}
+
+.messages-dropdown .dropdown-menu .message-preview .time {
+  font-size: 12px;
+}
+
+
+/* Nav Announcements */
+
+.announcement-heading {
+  font-size: 50px;
+  margin: 0;
+}
+
+.announcement-text {
+  margin: 0;
+}
+
+/* Table Headers */
+
+table.tablesorter thead {
+  cursor: pointer;
+}
+
+table.tablesorter thead tr th:hover {
+  background-color: #f5f5f5;
+}
+
+/* Flot Chart Containers */
+
+.flot-chart {
+  display: block;
+  height: 400px;
+}
+
+.flot-chart-content {
+  width: 100%;
+  height: 100%;
+}
+
+/* Edit Below to Customize Widths > 768px */
+@media (min-width:768px) {
+
+  /* Wrappers */
+
+  #wrapper {
+	padding-left: 225px;
+  }
+
+  #page-wrapper {
+	padding: 15px 25px;
+  }
+
+  /* Side Nav */
+
+  .side-nav {
+	margin-left: -225px;
+	left: 225px;
+	width: 225px;
+	position: fixed;
+	top: 50px;
+	height:90%/*500px*/;
+	border-radius: 0;
+	border: none;
+	background-color:rgb(2,95,69);
+	overflow-y:scroll;
+  }
+
+  /* Bootstrap Default Overrides - Customized Dropdowns for the Side Nav */
+
+  .side-nav>li.dropdown>ul.dropdown-menu {
+	position: relative;
+	min-width: 225px;
+	margin: 0;
+	padding: 0;
+	border: none;
+	border-radius: 0;
+	background-color: transparent;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+  }
+
+  .side-nav>li.dropdown>ul.dropdown-menu>li>a {
+	color: #999999;
+	padding: 15px 15px 15px 25px;
+  }
+
+  .side-nav>li.dropdown>ul.dropdown-menu>li>a:hover,
+  .side-nav>li.dropdown>ul.dropdown-menu>li>a.active,
+  .side-nav>li.dropdown>ul.dropdown-menu>li>a:focus {
+	color: #fff;
+	background-color: #025F46;
+  }
+
+  .side-nav>li>a {
+	width: 225px;
+  }
+
+  .navbar-inverse .navbar-nav>li>a:hover,
+  .navbar-inverse .navbar-nav>li>a:focus {
+	background-color: #080808;
+  }
+
+  /* Nav Messages */
+
+  .messages-dropdown .dropdown-menu {
+	min-width: 300px;
+  }
+
+  .messages-dropdown .dropdown-menu li a {
+	white-space: normal;
+  }
+
+}
+/****************************/
+.content-header {
+    border-bottom: 4px solid #DFDFDF;
+    margin-bottom: 18px;
+    padding-bottom: 0.25em;
+}
+
+.content-header .content-buttons-placeholder {
+    display: inline !important;
+}
+
+.content-header .content-buttons {
+    margin: 0;
+    white-space: nowrap !important;
+}
+.content-header .form-buttons {
+    float: right;
+}
+.content-buttons.form-buttons, .content-header .form-buttons {
+    margin-bottom: 0;
+    text-align: right;
+    white-space: nowrap;
+}
+.content-buttons {
+    display: inline;
+    
+}
+.date
+{
+    margin: 15px 50px 0 5px;
+    color :#fff;
+}
+.highlight {
+    background-color: #F7F7F9;
+    border: 1px solid #E1E1E8;
+    border-radius: 4px;
+    display: none;
+    margin-bottom: 14px;
+    padding: 9px 14px;
+}
+.highlight {
+    display: block;
+}
+
+.avisos_vacio {
+    margin: 20px;
+    color: #BBBBBB;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    
+    border-width: 1px;
+    box-shadow: none;
+   
+}
+.pmodal
+{
+   
+    font-size: 11px;
+    font-weight: bold;
+    text-align: justify;
+   
+    
+}
+.table_amda >tbody>tr>td{width: 247px;}    
+.beneficiario ul li a.clsEliminarElemento{
+	padding:1px 5px;
+	border: solid 1px #222222;
+        /*url(../../images/frontend/nav_bg.jpg)*/
+	background: #222222 url(../images/eliminar1.png) center no-repeat;
+	border-radius: 3px;
+	width: auto;
+	display: inline-block;
+	margin-right: 10px;
+	cursor: pointer;
+	}
+.beneficiario ul li a.clsEliminarElemento:hover{
+	border-color: #f00;
+	}
+li.beneficiario >ul>li
+{
+    color:#fff;
+}
+li.beneficiario >ul>li>a
+{
+    text-decoration: none;
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color:#fff;
+}
+.modal.large {
+    width: 80%; /* respsonsive width */
+    margin-left:-40%; /* width/2) */ 
+}
+.liquidacion ul li a.clsEliminarElemento{
+	padding:1px 5px;
+	border: solid 1px #222222;
+        /*url(../../images/frontend/nav_bg.jpg)*/
+	background: #222222 url(../images/eliminar1.png) center no-repeat;
+	border-radius: 3px;
+	width: auto;
+	display: inline-block;
+	margin-right: 10px;
+	cursor: pointer;
+	}
+.liquidacion ul li a.clsEliminarElemento:hover{
+	border-color: #f00;
+	}
+li.liquidacion >ul>li
+{
+    color:#fff;
+}
+li.liquidacion >ul>li>a
+{
+    text-decoration:underline;
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color:#fff;
+}
+
+.liquidacion_child{color:#fff; font-size: 11px; margin:0 0 0 15px;}
+.icon-pencil
+{
+ 
+ background: #fff url(../images/fam_page_white_edit.gif);
+ background-repeat: no-repeat;
+ background-position: center;
+ cursor: pointer;
+ height: 20px;
+ padding: 10px;
+ margin:5px;
+ /*width: 20px;*/
+ 
+ 
+ 
+}
+.icon-xml
+{
+ 
+ background: #fff url(../images/icono_xml2.gif);
+ background-repeat: no-repeat;
+ 
+ cursor: pointer;
+ height: 20px;
+ padding: 0 20%;
+ margin:0 5px;
+ width: 20px;
+ 
+ 
+ 
+}
+.acordeon
+{
+    float: left;
+    
+}
+.tabla > td {height: 20px;}
+
+.instrumento{
+    background: none repeat scroll 0 0 rgba(53, 127, 106,0.3)/*#6F8992*/;
+    padding: 2px 10px;
+    color: #000;
+}
+/* Main Color (#69b200) */
+.accordion {
+  background: #025F45;
+  clear: both;
+  color: #fff;
+  
+  margin-top: 10px;
+}
+.accordion a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.accordion h5 {
+  color:  #000;
+  cursor: pointer;
+  padding-top: 30px;
+}
+.accordion li {
+  margin: 20px 0 0 0;
+  cursor: pointer;
+ 
+}
+
+.block{margin:0 0 0 15px;}
+.block li{
+    -webkit-user-select: none;
+ -khtml-user-select: none;
+ -moz-user-select: none;
+ -o-user-select: none;
+ -ms-user-select: none;
+ user-select: none;
+ cursor: not-allowed;
+}
+.activo
+{
+    background-color: #000;
+    color: #FFFFFF;
+    padding: 10px;
+    width: 225px;
+}
+.beneficiario{margin-top: 0px; margin-bottom: 20px;}
+#wrapper nav.navbar{
+   background-color: rgb(2,95,69);
+    background-image: url('../images/heading.png');
+    background-repeat: no-repeat;
+    background-position: 50% center;
+    background-size: 70% auto;
+   
+    
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+    background-color: #24874C;
+    color: #FFFFFF;
+}
+.navbar-inverse .navbar-nav > li > a:focus {
+    background-color: #24874C;
+    color: #FFFFFF;
+}
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+.active{background: #025F45;color: #fff;}
